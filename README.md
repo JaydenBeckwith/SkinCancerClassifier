@@ -1,2 +1,2 @@
 # SkinCancerClassifier
-Skin cancer classifier using image data from kaggle 
+Image classification of skin cancer lesions using deep learning techniques 
